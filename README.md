@@ -4,3 +4,5 @@ Este repositorio ~contiene~ contendrá un compendio para _todas_ las líneas de 
 ![imagen](https://github.com/user-attachments/assets/c25d2df5-f508-40b5-894b-369423f68072)
 
 Es un proyecto en curso que voy haciendo a ratos libres, y que a su vez es una tarea espejo de otro proyecto aún mayor, una ["Enciclopedia de Mundo de Tinieblas"](https://github.com/Kad-Caiel/Compendium-Mundi-Tenebrarum) que engloba absolutamente todo lo publicado.
+___
+Si necesitas contactarme, usa mis [redes](https://allmylinks.com/caiel).
